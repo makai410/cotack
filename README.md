@@ -38,7 +38,7 @@ A: It has high-performance thanks to Tesla P4 or P100 from Google Colab. It is s
 * You can download it from [Github Releases](https://github.com/glut410/cotack/releases)
 
 ## Getting Started
-* Open the file ***Panel.ipynb*** from this repo in Google Colab.
+* [Open the panel in Google Colab](https://colab.research.google.com/github/glut410/cotack/blob/main/Panel.ipynb).
 
 ## Contact Us
 
