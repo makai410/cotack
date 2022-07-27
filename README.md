@@ -2,9 +2,7 @@
 <img src="/cotack.png"/>
 </div>
 
-<h1 align="center">Cotack - A Web Attack Panel On Jupyter Notebook</h1>
-
-<em><h5 align="center">Programming Language - Python 3</h5></em>
+<h3 align="center">A Web Attack Panel On Jupyter Notebook</h3>
 
 ## Q&A
 
@@ -18,6 +16,10 @@ Q: What is the advantage of this panel?
 
 A: It has high-performance thanks to Tesla P4 or P100 from Google Colab. It is secure cuz server resources are public so u will never go to jail cuz no one can prove u did it.
 
+## Features
+* Relying on Google Colab, it has an excellent interactive panel.
+* Relying on excellent scripts, it has many powerful functions.
+* Excellent config management.
 ## WARNING
 * **DO NOT USE IT FOR ILLEGAL PURPOSES!**
 * **We are not responsible for any damages caused by Cotack.**
