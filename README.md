@@ -1,5 +1,10 @@
+<div align=center>
+<img src="/cotack.png"/>
+</div>
+
 <h1 align="center">Cotack - A Web Attack Panel On Jupyter Notebook</h1>
-<em><h5 align="center">(Programming Language - Python 3)</h5></em>
+
+<em><h5 align="center">Programming Language - Python 3</h5></em>
 
 ## Q&A
 
