@@ -130,3 +130,11 @@ dmypy.json
 
 #idea
 .idea/
+config.json
+mhddosbash.sh
+requirements.txt
+start.py
+cotack/config.json
+files/referers.txt
+files/useragent.txt
+files/proxies/http.txt

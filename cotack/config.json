@@ -36,5 +36,14 @@
         "reflectors_file": "dns.txt",
         "debug": "true",
         "type": "L4_ampl"
+    },
+    "New Config": {
+        "method": "dns",
+        "target": "1.1.1.1:53",
+        "threads": "100",
+        "duration": "3600",
+        "reflectors_file": "dns.txt",
+        "debug": "true",
+        "type": "L4_ampl"
     }
 }
