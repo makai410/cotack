@@ -139,3 +139,4 @@ files/referers.txt
 files/useragent.txt
 files/proxies/http.txt
 files/proxies/socks5.txt
+cotack/config.json
