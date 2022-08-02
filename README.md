@@ -4,6 +4,19 @@
 
 <h3 align="center">A Web Attack Panel On Jupyter Notebook</h3>
 
+<p align=center>
+<a href="#"><img alt="lang" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="#"><img alt="jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"></a>
+<a href="#"><img alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+<a href="#"><img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+</p>
+
+<p align=center>
+<a href="#"><img alt="star" src="https://img.shields.io/github/stars/glut410/cotack?color=yellow&style=for-the-badge"></a>
+<a href="#"><img alt="issues" src="https://img.shields.io/github/issues/glut410/cotack?style=for-the-badge"></a>
+<a href="#"><img alt="fork" src="https://img.shields.io/github/forks/glut410/cotack?style=for-the-badge"></a>
+<a href="#"><img alt="license" src="https://img.shields.io/github/license/glut410/cotack?color=purple&style=for-the-badge"></a>
+</p>
 ## Q&A
 
 Q: Why on jupyter?
@@ -42,11 +55,9 @@ A: It has high-performance thanks to Tesla P4 or P100 from Google Colab. It is s
 
 ## Contact Us
 
-* 🐈[Github](https://github.com/glut410/cotack/issues)
-
-* 🦕[Discord](https://discord.gg/cgGnJbu9Pj)
-
-* 🛫[Telgram](https://t.me/+t6IVVbmyDxk4N2Y1)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "Github")](https://github.com/glut410/cotack/issues "Github")
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.gg/cgGnJbu9Pj "Discord")
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram")](https://t.me/+t6IVVbmyDxk4N2Y1 "Telegram")
 
 **If you like this project, please leave a star on the repository! 😘😘😘**
 ---
