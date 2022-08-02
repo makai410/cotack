@@ -46,5 +46,7 @@ A: It has high-performance thanks to Tesla P4 or P100 from Google Colab. It is s
 
 * 🦕[Discord](https://discord.gg/cgGnJbu9Pj)
 
+* 🛫[Telgram](https://t.me/+t6IVVbmyDxk4N2Y1)
+
 **If you like this project, please leave a star on the repository! 😘😘😘**
 ---
